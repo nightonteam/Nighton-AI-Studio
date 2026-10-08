@@ -1,0 +1,6 @@
+{
+  "name": "NIGHTON Studio",
+  "description": "Современная digital & AI студия: разработка сайтов, лендингов, Telegram-ботов и MVP для бизнеса, экспертов и стартапов.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

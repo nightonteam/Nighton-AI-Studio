@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 80" fill="none">
+  <!-- Crescent moon icon -->
+  <path d="M 44 14 C 23.5 14 9 27.5 9 44 C 9 60.5 23.5 74 44 74 C 48.8 74 53.2 73 57.2 71.2 C 39.5 67.8 28.5 54.8 28.5 44 C 28.5 33.2 39.5 20.2 57.2 16.8 C 53.2 15 48.8 14 44 14 Z" fill="#0A1838" />
+  <!-- Typography NIGHTON -->
+  <text x="74" y="52" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Montserrat', 'Inter', sans-serif" font-size="34" font-weight="900" letter-spacing="1.5" fill="#0A1838">NIGHTON</text>
+</svg>
